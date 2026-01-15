@@ -14,9 +14,10 @@ hero:
       # text: API Examples
       # link: /api-examples
 
-# features:
-  # - title: About Me
-    # details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+features:
+  - title: Talk To Me
+    details: (chris at christophercahill dot com)
+    link: mailto:chris@christophercahill.com
   # - title: Feature B
   #   details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   # - title: Feature C
