@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "christophercahill.com"
   text: "Hi !"
-  tagline: I am a software developer based in Portland, OR with experience in organic chemistry, semiconductors, and intellectual property
+  tagline: I am a full-stack software developer based in Portland, OR with prior experience in organic chemistry, semiconductors, and intellectual property.
   actions:
     # - theme: brand
       # text: Markdown Examples
