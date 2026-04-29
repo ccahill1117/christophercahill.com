@@ -18,8 +18,9 @@ features:
   - title: Talk To Me
     details: (chris at christophercahill dot com)
     link: mailto:chris@christophercahill.com
-  # - title: Feature B
-  #   details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature B
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /resources/Resume_2025.pdf
   # - title: Feature C
   #   details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
