@@ -2,6 +2,7 @@
   "scripts": {
     "ctc:dev": "vitepress dev",
     "ctc:build": "vitepress build",
-    "ctc:preview": "vitepress preview"
+    "ctc:preview": "vitepress preview",
+    "ctc:deploy": "vitepress build && aws s3 sync .vitepress/dist s3://christophercahill.com --delete && aws cloudfront create-invalidation --distribution-id E2YG3XUX494VTM --paths '/*'"
   }
 }
