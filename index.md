@@ -20,7 +20,7 @@ features:
     link: mailto:chris@christophercahill.com
   - title: Check out my resume
     details: (formatted in LaTex)
-    link: https://christophercahill.com/Res_2026.pdf
+    link: https://christophercahill.com/Resume_2026.pdf
   # - title: Feature C
   #   details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
